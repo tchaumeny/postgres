@@ -1,0 +1,5 @@
+# pattern_escape extension
+comment = 'text search dictionary that escapes string for use with LIKE'
+default_version = '1.0'
+module_pathname = '$libdir/pattern_escape'
+relocatable = true

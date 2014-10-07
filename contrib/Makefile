@@ -29,6 +29,7 @@ SUBDIRS = \
 		oid2name	\
 		pageinspect	\
 		passwordcheck	\
+		pattern_escape	\
 		pg_archivecleanup \
 		pg_buffercache	\
 		pg_freespacemap \
